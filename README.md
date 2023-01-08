@@ -10,4 +10,4 @@ Coming Soon -->
 
 - Portfolio site: https://marzuk-zarir.github.io
 - Linkedin: https://linkedin.com/in/marzuk-zarir
-- Email: business.marzuk-zarir.github.io
+- Email: business.marzuk-zarir@gmail.com
