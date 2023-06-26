@@ -11,3 +11,6 @@ Coming Soon -->
 - Portfolio site: https://marzuk-zarir.github.io
 - Linkedin: https://linkedin.com/in/marzuk-zarir
 - Email: business.marzuk-zarir@gmail.com
+
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=marzuk-zarir&label=Total%20Visitors&labelColor=%232ccce4&countColor=%23d9e3f0)](https://visitorbadge.io/status?path=marzuk-zarir)
